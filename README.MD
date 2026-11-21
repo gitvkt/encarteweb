@@ -10,7 +10,13 @@
 
 </div>
 
-https://github.com/gitvkt/encarteweb/blob/main/preview.png
+<p align="center">
+
+<img width="1920" height="911" alt="001" src="https://github.com/gitvkt/encarteweb/blob/main/preview.png" />
+
+  
+</p>
+
 
 
 ---
