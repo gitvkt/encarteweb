@@ -6,7 +6,7 @@
 
 **A4 · Ajuste automático · 9 fontes · PHP + cPanel**
 
-[Começar](#instalação-no-cpanel) · [Manual completo](docs/DOCUMENTACAO.md) · [Manual visual](docs/manual.html) · [Impressão](#impressão)
+[Começar](#instalação-no-cpanel) · [Manual completo](https://vktcloud.com.br/encarte/manual.html) · [Manual visual](docs/manual.html) · [Impressão](#impressão)
 
 </div>
 
