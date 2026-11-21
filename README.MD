@@ -10,6 +10,7 @@
 
 </div>
 
+ <meta property="og:image" content="https://vktcloud.com.br/encarte/preview.png" />
 
 
 ---
