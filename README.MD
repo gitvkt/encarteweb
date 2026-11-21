@@ -10,7 +10,7 @@
 
 </div>
 
-!(./preview.png)
+https://github.com/gitvkt/encarteweb/blob/main/preview.png
 
 
 ---
